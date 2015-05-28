@@ -1,0 +1,33 @@
+# Version: 8.10.0.3 (3c4e832)
+# [first argument, ignore] # /Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.10.0.303/bin/mtouch \
+	--cache \
+	/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/bin/iPhoneSimulator/Debug/DemoOfXamarin.app \
+	--executable \
+	DemoOfXamarin \
+	--debug \
+	--profiling \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	8.3 \
+	--targetver \
+	6.0 \
+	--abi=i386 \
+	--symbollist \
+	/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/bin/iPhoneSimulator/Debug//DemoOfXamarin.exe \

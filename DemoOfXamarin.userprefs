@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="DemoOfXamarin/DemoOfXamarin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoOfXamarin/Controllers/MainViewController.cs">
+    <Files>
+      <File FileName="DemoOfXamarin/AppDelegate.cs" Line="28" Column="58" />
+      <File FileName="DemoOfXamarin/Controllers/MainViewController.cs" Line="28" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

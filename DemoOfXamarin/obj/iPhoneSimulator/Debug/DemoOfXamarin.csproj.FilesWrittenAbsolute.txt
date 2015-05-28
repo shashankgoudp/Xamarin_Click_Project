@@ -1,0 +1,12 @@
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/bin/iPhoneSimulator/Debug/DemoOfXamarin.exe.mdb
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/bin/iPhoneSimulator/Debug/DemoOfXamarin.exe
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/DemoOfXamarin.exe
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/DemoOfXamarin.exe.mdb
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/ibtool/MainViewController.nib/objects-8.0+.nib
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/ibtool/MainViewController.nib/objects.nib
+/Users/agigoud/Projects/DemoOfXamarin/DemoOfXamarin/obj/iPhoneSimulator/Debug/ibtool/MainViewController.nib/runtime.nib
